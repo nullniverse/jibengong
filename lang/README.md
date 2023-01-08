@@ -39,7 +39,7 @@ Below some online resources to aid you, if you are interested in getting used to
 
 * **General resources**
     - [Refold Mandarin](https://refold.link/mandarinNotion) (also this [link](https://zenith-raincoat-5cf.notion.site/Refold-Mandarin-Resources-d54bfade358b4d0a88b5600acb99582b))
-        -   This was a very famous online sheet for hosting cultural resources in chinese mandarin, now turned into a Notion database. Check [Refold]([)https://refold.la/). You can also check the above mentioned old sheet [here](https://docs.google.com/spreadsheets/d/1mq3sfslUsC9WlPM7pJN5A7hOFdVqpEFBbiU8-fgmRUw/edit?usp=sharing)
+        -   This was a very famous online sheet for hosting cultural resources in chinese mandarin, now turned into a Notion database. Check [Refold](https://refold.la/). You can also check the above mentioned old sheet [here](https://docs.google.com/spreadsheets/d/1mq3sfslUsC9WlPM7pJN5A7hOFdVqpEFBbiU8-fgmRUw/edit?usp=sharing)
     - [Chinese Cinema](https://disk.yandex.ru/d/E_IM5MYJ4SG_sw) One of my best friends is addicted to Cinema and made this list of grand chinese master's movies! Even if you're not that much in Chinese learning, check it out! Password is: ```Kur0s@wa$Ak1R4```. If you want to download it all, get [this torrent](https://drive.google.com/file/d/1hfnpu2mGB5lgZFL30JJqwJSV063CE64y/view?usp=share_link). Movies included:
         - **Movies:**
         - Yonggang Wu - 1934 - 神女 (Goddess) | The Goddess
