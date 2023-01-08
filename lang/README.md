@@ -16,7 +16,7 @@ Below some online resources to aid you, if you are interested in getting used to
         - One of my most used dictionaries. Definitely give it a try. Check the How-to's [here](https://zhongwen-chrome.blogspot.com/) and start leveraging its power today!
     - [Dict.cn](https://dict.cn/)
         - A very handy online dictionary to translate chinese words. I made a common use this way, for example: ```http://dict.cn/老师```
-        Cool if you are using a sheet for "flashcarding" new learning words. It gets easier to automate a link for lookups this way.
+        Cool if you are using a sheet for "flashcarding" new learning words. It gets easier to automate a link for lookups doing this.
     - [Baidu Fanyi (翻译)](https://fanyi.baidu.com/)
         - Complete translation tool from many dialects of mandarin into other languages. More trustworthy than Google Translation in this regard, made for natives of asian speaking languages. Also has a very useful mobile app, check it out!
     - [Pleco](https://www.pleco.com/)
@@ -40,19 +40,19 @@ Below some online resources to aid you, if you are interested in getting used to
 * **General resources**
     - [Refold Mandarin](https://refold.link/mandarinNotion) (also this [link](https://zenith-raincoat-5cf.notion.site/Refold-Mandarin-Resources-d54bfade358b4d0a88b5600acb99582b))
         -   This was a very famous online sheet for hosting cultural resources in chinese mandarin, now turned into a Notion database. Check Refold[https://refold.la/]. You can also check the above mentioned old sheet [here](https://docs.google.com/spreadsheets/d/1mq3sfslUsC9WlPM7pJN5A7hOFdVqpEFBbiU8-fgmRUw/edit?usp=sharing)
-    - [Chinese Cinema](https://disk.yandex.ru/d/E_IM5MYJ4SG_sw) One of my best friends is addicted to Cinema and made this list of grand chinese master's movies! Even if you're not that much in Chinese learning, check it out! Password is: ```Kur0`@wa$Ak1R4```. If you want to download it all, get [this torrent](https://drive.google.com/file/d/1hfnpu2mGB5lgZFL30JJqwJSV063CE64y/view?usp=share_link). Movies included:
+    - [Chinese Cinema](https://disk.yandex.ru/d/E_IM5MYJ4SG_sw) One of my best friends is addicted to Cinema and made this list of grand chinese master's movies! Even if you're not that much in Chinese learning, check it out! Password is: ```Kur0s@wa$Ak1R4```. If you want to download it all, get [this torrent](https://drive.google.com/file/d/1hfnpu2mGB5lgZFL30JJqwJSV063CE64y/view?usp=share_link). Movies included:
         - **Movies:**
-        - Yonggang Wu - 1934 - 神女 (A Deusa) | The Goddess
+        - Yonggang Wu - 1934 - 神女 (Goddess) | The Goddess
         - Weibang Ma-Xu - 1937 - 夜半歌声 (Song at Midnight)
-        - Fei Mu - 1948 - 小城之春 (Primavera Numa Pequena Cidade)
+        - Fei Mu - 1948 - 小城之春 (Spring in a small town)
         - Xie Jin - 1961 - 红色娘子军 (The Red Detachment of Women) -> also on [Youtube](https://www.youtube.com/watch?v=EenkAGNXBBQ&ab_channel=F%C3%A1bioCardoso) 
-        - Chen Kaige - 1984 - 黄土地 (Terra Amarela), 1993 - 霸王别姬 (Adeus, Minha Concubina), 2021 - 长津湖 (The Battle at Lake Changjin)
-        - Tian Zhuangzhuang - 1986 - 盗马贼 (O Ladrão de Cavalos), 1993 - 蓝风筝 (O Sonho Azul)
-        - Zhang Yimou - 1988 - 红高粱 (Sorgo Vermelho), 1991 - 大红灯笼高高挂 (Lanternas Vermelhas), 1994 - 活着 (Tempo de Viver), 1999 - 一个都不能少 (Nenhum a Menos), 2002 - 英雄 (Herói)
-        - Jiang Wen - 1994 - 阳光灿烂的日子 (In the Heat of the Sun), 2000 - 鬼子来了 (Os Demônios Batem à Porta)
-        - Jia Zhangke - 2000 - 站台 (Plataforma), 2006 - 三峡好人 (Em Busca da Vida), 2013 - 天注定 (Um Toque de Pecado), 2015 - 山河故人 (As Montanhas Se Separam), 2018 - 江湖儿女 (Amor Até as Cinzas)
-        - Bi Gan - 2018 - (地球最后的夜晚) Longa Jornada Noite Adentro
-        - Guan Hu - 2020 - 八佰 (Os Oitocentos) | The Eight Hundred
+        - Chen Kaige - 1984 - 黄土地 (Yellow earth), 1993 - 霸王别姬 (Farewell My Concubine), 2021 - 长津湖 (The Battle at Lake Changjin)
+        - Tian Zhuangzhuang - 1986 - 盗马贼 (Horse thief), 1993 - 蓝风筝 (Blue kite)
+        - Zhang Yimou - 1988 - 红高粱 (Red Sorghum), 1991 - 大红灯笼高高挂 (Red lanterns hang high), 1994 - 活着 (Tempo de Viver), 1999 - 一个都不能少 (Not one less), 2002 - 英雄 (Hero)
+        - Jiang Wen - 1994 - 阳光灿烂的日子 (In the Heat of the Sun), 2000 - 鬼子来了 (Devils are coming)
+        - Jia Zhangke - 2000 - 站台 (Platform), 2006 - 三峡好人 (Em Busca da Vida), 2013 - 天注定 (Destiny), 2015 - 山河故人 (Old friend), 2018 - 江湖儿女 (Rivers and lakes)
+        - Bi Gan - 2018 - 地球最后的夜晚 (Last night on earth)
+        - Guan Hu - 2020 - 八佰 (The Eight Hundred)
         
         - **Animations:**
         - Wan Laiming - 1941 - 铁扇公主 (Iron Fan Princess), 1961 - 大闹天宫 (The Monkey King: Havoc in Heaven), 1979 - 哪吒闹海 (Nezha Naohai) | Nezha Conquers the Dragon King, 2016 - 大鱼海棠 (Big fish & Begônia) -> (Netflix Only), 2018 - 肆式青春 (Unrestrained youth) -> (Netflix only), 2019 - 罗小黑战记 (Heifei Legend) -> (HBO Max only)
@@ -75,7 +75,7 @@ Below some online resources to aid you, if you are interested in getting used to
     - [Discord Chinese Language](https://discord.gg/chineselanguage)
         - One of the best learning communities out there I've ever seen. Not because of it's size, but because of its quality both from it's members and guidance in general. There you'll find broader knowledge channels and can practice and level up your mandarin skill set!
     - [Discord Xefjord's Complete Language](https://discord.gg/PfzZqBUw) (also [here](https://xefjord.wixsite.com/xefscompletelangs))
-        - Interested in other asian speaking or indian native languages? Say no more! Check Xefjord's amazing resources and join the Discord channels for lots of resources like flashcards and advice!
+        - Interested in other asian countries or indian native languages? Say no more! Check Xefjord's amazing resources and join the Discord channels for lots of resources like flashcards and advice!
     - [Telegram Xiao Mandarim Channel PT-BR](https://t.me/mandarim)
         - If you're coming from Tupiniquim Lands (Brazil), this is one of the most effervescent communities for mandarin learning out there on this country. 小老师 also holds a [public playlist](https://www.youtube.com/playlist?list=PLSA_5IcZ3282g5B1luYSP6IxPaLigxErG) with +250 videos from 0-to-hero for mastering the mandarin language. 
 
