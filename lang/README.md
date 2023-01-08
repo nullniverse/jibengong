@@ -34,7 +34,7 @@ Below some online resources to aid you, if you are interested in getting used to
     - [Mandarin Bean](https://mandarinbean.com/new-hsk-vocabulary/)
         - Despite all the other resources who will aid you in gaining vocabulary, sometimes you need a compreehensible list. It's made for you! Very handy to print and put at your desk for offline reference. There's also a whole lot of resources like tests etc. Enjoy! 
     - [Chinese HSK Consolidated](https://docs.google.com/spreadsheets/d/1-BppwKJzK1swKgGw94jTB0GGB2vfr8tPdh0sTW7wi9Y/edit?usp=sharing)
-        - I've found this in 2021 without even grasping how mandarin worked out or how to tackle its study. Turns out it's very handful for checking words and frequency order for all HSKs levels!
+        - I've found this in 2021 without even grasping how mandarin worked out or how to tackle its study. Turns out it's very handy for checking words and frequency order for all HSKs levels!
 ----
 
 * **General resources**
