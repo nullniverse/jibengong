@@ -75,7 +75,7 @@ Below some online resources to aid you, if you are interested in getting used to
     - [Discord Chinese Language](https://discord.gg/chineselanguage)
         - One of the best learning communities out there I've ever seen. Not because of it's size, but because of its quality both from it's members and guidance in general. There you'll find broader knowledge channels and can practice and level up your mandarin skill set!
     - [Discord Xefjord's Complete Language](https://discord.gg/PfzZqBUw) (also [here](https://xefjord.wixsite.com/xefscompletelangs))
-        - Interested in other asian countries or indian native languages? Say no more! Check Xefjord's amazing resources and join the Discord channels for lots of resources like flashcards and advice!
+        - Interested in other asian countries or indian native languages? Say no more! Check Xefjord's amazing resources and join the Discord channel for lots of resources like flashcards and advice!
     - [Telegram Xiao Mandarim Channel PT-BR](https://t.me/mandarim)
         - If you're coming from Tupiniquim Lands (Brazil), this is one of the most effervescent communities for mandarin learning out there on this country. 小老师 also holds a [public playlist](https://www.youtube.com/playlist?list=PLSA_5IcZ3282g5B1luYSP6IxPaLigxErG) with +250 videos from 0-to-hero for mastering the mandarin language. 
 
