@@ -1,3 +1,5 @@
+> Update: These contents are going to be hosted in [my Memo blue book](https://memo.nullniverse.xyz)
+
 # 新目标汉语口语课本+第1册
 
 ## 缩写词  - Abbreviations
